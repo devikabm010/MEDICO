@@ -1,0 +1,5 @@
+Operations to perform:
+  Apply all migrations: admin, auth, authtoken, contenttypes, medicines, sessions, store
+Running migrations:
+  Applying medicines.0001_initial... OK
+  Applying store.0001_initial... OK
